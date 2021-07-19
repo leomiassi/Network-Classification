@@ -17,4 +17,4 @@ Three networks of three different types: social, biological, and technological, 
   - Random Forest
   - Decision tree
 
-The source of each network classified can be found on the Jupiter file.
+The source of each network classified can be found on the Jupyter file.
